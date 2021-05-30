@@ -55,7 +55,7 @@ Users should be able to:
 
 
 - Frontend Mentor - [@kajuraedrine](https://www.frontendmentor.io/profile/kajuraedrine)
-- Twitter - [@yourusername](https://www.twitter.com/kajuraedrine)
+- Twitter - [@kajuraedrine](https://www.twitter.com/kajuraedrine)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
