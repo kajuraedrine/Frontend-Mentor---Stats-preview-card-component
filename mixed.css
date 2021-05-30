@@ -19,10 +19,12 @@
 }
 
 body{
-
+    text-align:center;
+    color:var(--White);
     Font size: 13px;
     background-color:var(--very-dark-blue);
     display:flex;
+    flex-direction:column;
     justify-content:center;
     align-items:center;
     width:100vw;
